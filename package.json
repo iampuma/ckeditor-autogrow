@@ -1,0 +1,19 @@
+{
+  "name": "ckeditor-autogrow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iampuma/ckeditor-autogrow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iampuma/ckeditor-autogrow/issues"
+  },
+  "homepage": "https://github.com/iampuma/ckeditor-autogrow#readme"
+}
